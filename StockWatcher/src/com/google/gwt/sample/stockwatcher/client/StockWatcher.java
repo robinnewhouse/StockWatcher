@@ -47,7 +47,7 @@ public class StockWatcher implements EntryPoint {
 
 	/* I am adding a new method to this class!!! */
 	public void whatsupNima() {
-		System.out.println("What's goin on?");
+		System.out.println("What's goin on? WHAT?");
 	}
 
 	public void newMethod() {
